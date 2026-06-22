@@ -84,7 +84,7 @@ const CAT_MAP_EN = { "All":"전체","Background":"배경 일러스트","Fan Art"
 const SNS = [
   { label:"Twitter", href:"https://x.com" },
   { label:"Pixiv",   href:"https://www.pixiv.net" },
-  { label:"Instagram", href:"#" },
+  { label:"Instagram", href:"https://www.instagram.com" },
 ];
 
 const initialWorks = [
